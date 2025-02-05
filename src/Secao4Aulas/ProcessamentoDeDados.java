@@ -1,3 +1,5 @@
+package Secao4Aulas;
+
 public class ProcessamentoDeDados {
     public static void main(String[] args) {
         int x, y;

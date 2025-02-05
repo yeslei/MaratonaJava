@@ -1,3 +1,5 @@
+package Secao4Aulas;
+
 import java.util.Locale;
 
 public class operacoesDeSaida{

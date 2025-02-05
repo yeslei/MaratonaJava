@@ -1,4 +1,5 @@
-import java.util.Locale;
+package Secao4Aulas;
+
 import java.util.Scanner;
 
 public class operacoesDeEntrada {
