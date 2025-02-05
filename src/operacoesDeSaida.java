@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class operacoesDeES {
+public class operacoesDeSaida{
     public static void main(String[] args) {
 
         // Operacoes de Saida
